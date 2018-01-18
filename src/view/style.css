@@ -1,0 +1,62 @@
+#week-label
+{
+	-fx-background-color: #b3b3ff;
+	-fx-font-weight: bold;
+	-fx-text-fill: #4747d1;
+		-fx-alignment: center;
+}
+
+#day-label
+{
+	-fx-background-color: #b3b3ff;
+	-fx-font-weight: bold;
+	-fx-text-fill: #4747d1;
+	-fx-alignment: center;
+}
+
+#next-label
+{
+	-fx-background-color: #cce6ff;
+	-fx-font-weight: bold;
+	-fx-text-fill: #4747d1;
+	-fx-text-alignment: center;
+	-fx-alignment: center;
+}
+
+#prev-label
+{
+	-fx-background-color: #cce6ff;
+	-fx-font-weight: bold;
+	-fx-text-fill: #4747d1;
+	-fx-alignment: center;
+}
+
+.label-day
+{
+	-fx-font-size: 12px;
+	-fx-padding: 0 0 0 10;
+	-fx-font-weight: bold;
+	-fx-text-fill: #4747d1;
+	-fx-pref-height: 5px;
+	-fx-min-height: 17px;
+	-fx-border-color: #4747d1;
+}
+
+.event-label
+{
+	-fx-font-size: 12px;
+	-fx-padding: 0 0 0 2;
+	-fx-font-weight: bold;
+	-fx-text-fill: #00e6e6;
+	-fx-pref-height: 5px;
+	-fx-min-height: 17px;
+	-fx-border-color: #00e6e6;
+	-fx-border-width: 1px 1px 1px 1px;
+}
+
+.main-vbox
+{
+	-fx-border-color: black;
+	-fx-background-color: white;
+	-fx-border-radius: 5px;
+}
